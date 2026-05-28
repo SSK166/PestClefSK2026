@@ -83,7 +83,7 @@ All random seeds are fixed to 42. Minor numerical variation (±0.005 F1) is expe
 If you use this code, please cite our working note:
 
 ```
-Sree Krishna S, Sujith M, and Varghese K James.
+Sree Krishna S, Sujith M, Varghese K James and Prabavathy Balasundaram.
 Knowledge Graph Extraction from Plant Pest Documents Using BioBERT-based NER
 and Marker-based Relation Classification. Sree Krishna S at PestCLEF 2026.
 In Proceedings of the CLEF 2026 Working Notes, Jena, Germany, 2026.
